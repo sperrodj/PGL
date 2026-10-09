@@ -526,6 +526,9 @@ El proyecto deberá poder ejecutarse siguiendo únicamente las instrucciones de 
 
 El historial del repositorio deberá permitir distinguir el código inicial procedente de la práctica guiada y las ampliaciones realizadas para esta actividad.
 
+La rúbrica anterior representa el 100 % de los requisitos de la Pokédex. No obstante, a efectos de la calificación final de la actividad, ese 100 % equivale a una puntuación máxima de 5 puntos sobre 10.
+La puntuación obtenida mediante esta rúbrica se calculará proporcionalmente sobre 5 puntos. Los 5 puntos restantes se obtendrán mediante las modificaciones individuales realizadas posteriormente en clase.
+
 ---
 
 ## 14. Lista de comprobación final
