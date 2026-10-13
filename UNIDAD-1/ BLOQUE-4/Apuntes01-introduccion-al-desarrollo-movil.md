@@ -1,18 +1,5 @@
 # 1. Introducción al desarrollo móvil
 
-**Módulo:** Programación Multimedia y Dispositivos Móviles · 2.º DAM  
-**Unidad 1:** Introducción al desarrollo móvil  
-**Enfoque:** conceptos y toma de decisiones; todavía no programaremos con React Native.
-
-## Objetivos
-
-Al terminar este tema podrás:
-
-- explicar qué hace particular al desarrollo móvil;
-- distinguir aplicaciones nativas, web, PWA, híbridas y multiplataforma;
-- comparar Android e iOS a nivel general;
-- proponer una tecnología razonable para un proyecto y justificarla.
-
 ## 1. ¿Qué es el desarrollo móvil?
 
 El desarrollo móvil comprende el diseño, la creación, las pruebas, la distribución y el mantenimiento de aplicaciones pensadas para teléfonos y tabletas. No consiste únicamente en escribir código: también hay que entender quién utilizará la aplicación, qué problema resuelve y en qué condiciones se usará.
