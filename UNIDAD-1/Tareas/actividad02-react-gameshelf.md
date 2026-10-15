@@ -1,4 +1,4 @@
-# Actividad autónoma: mi primera app con React
+# Actividad 02: mi primera app con React
 
 ## GameShelf — catálogo de videojuegos
 
@@ -12,12 +12,6 @@ Ve respondiendo las preguntas del README y guardando las capturas a medida que a
 ### El reto
 
 Crearás una página con un catálogo de al menos diez videojuegos: conservarás los tres de ejemplo y añadirás al menos siete juegos que te gusten. Para que haya bastantes tarjetas, intenta llegar a 12–15 videojuegos. Incluirás un botón para ver solo los disponibles y, como reto final, otro para filtrar los que cuestan menos de 15 €. Documenta tus decisiones en README.md.
-
-| Sesión | Plan |
-|---|---|
-| 1 | Crear el proyecto con Vite, investigar las herramientas y archivos, y empezar el README. |
-| 2 | Crear los componentes, ampliar el catálogo con juegos propios y diseñar el CSS. |
-| 3 | Añadir los filtros, completar el reto, terminar el README y publicar el proyecto en GitHub. |
 
 ---
 
