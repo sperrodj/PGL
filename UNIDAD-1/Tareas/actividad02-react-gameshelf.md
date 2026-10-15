@@ -120,9 +120,9 @@ Estas definiciones son pistas. Investiga cada término que no entiendas y añade
 
 ## 5. Crea tu README.md y decide cómo organizarlo
 
-El proyecto ya incluye un archivo README.md en la carpeta principal. Ábrelo, elimina el texto automático de Vite y escribe tu propia documentación en Markdown. **No hay una plantilla que debas copiar**: organiza el documento con títulos y apartados que tengan sentido para ti.
+El proyecto ya incluye un archivo README.md en la carpeta principal. Ábrelo, elimina el texto automático de Vite y escribe tu propia documentación en Markdown. Organiza el documento con títulos y apartados que tengan sentido siguiendo el paso a paso de la actividad.
 
-Tu README debe responder las preguntas de investigación de esta actividad y explicar el trabajo realizado. Incluye, como mínimo:
+Tu README debe responder las preguntas de investigación y explicar el trabajo realizado. Incluye, como mínimo:
 
 - título del proyecto, autoría y una descripción de GameShelf;
 - herramientas utilizadas y cómo ejecutar el proyecto con npm install y npm run dev;
@@ -151,9 +151,8 @@ Incluye capturas que permitan ver:
 - una parte del código y el catálogo ampliado;
 - el filtro de disponibilidad activo;
 - la aplicación final con el filtro de precio;
-- el repositorio publicado en GitHub.
 
-Puedes elegir los nombres de archivo y el orden de los apartados. Comprueba al abrir README.md en GitHub que las imágenes se ven. No incluyas contraseñas, tokens ni datos personales que no quieras publicar.
+Comprueba al abrir README.md en GitHub que las imágenes se ven. No incluyas contraseñas, tokens ni datos personales que no quieras publicar.
 
 # Sesión 2 — Componentes, catálogo y estilos
 
@@ -420,81 +419,9 @@ Con solo los tres juegos iniciales, el filtro de precio muestra Hollow Knight y 
 
 **Extra si terminas:** cambia el límite a 18 €, mejora los botones o añade un contador con la propiedad length de la lista visible.
 
-## 12. Comprueba y completa el README
+## 12. Sube el proyecto a GitHub
 
-Marca cada punto:
-
-- [ ] Se muestran el título y las tres tarjetas.
-- [ ] Las tarjetas muestran título, género, precio y disponibilidad.
-- [ ] El filtro de disponibilidad funciona.
-- [ ] El filtro de precio funciona.
-- [ ] Ambos filtros funcionan combinados.
-- [ ] Cada elemento de la lista tiene una key estable.
-- [ ] El navegador no muestra errores.
-- [ ] README.md explica los archivos, conceptos, reto, errores resueltos y fuentes.
-- [ ] No se han borrado package.json, .gitignore ni otros archivos de configuración.
-
-Anota en README un error que hayas tenido y cómo lo resolviste.
-
-## 13. Sube el proyecto a GitHub
-
-Git guarda versiones del proyecto. GitHub aloja el repositorio en internet.
-
-### 13.1 Crea un repositorio vacío
-
-1. En GitHub selecciona **New repository**.
-2. Nombre: `react-gameshelf`.
-3. Elige la visibilidad que indique la profesora.
-4. Créalo **sin** README, licencia ni .gitignore: esos archivos ya existen en tu proyecto local.
-5. Pulsa **Create repository** y copia la URL HTTPS. Será similar a `https://github.com/USUARIO/react-gameshelf.git`. Cambia USUARIO por tu nombre de GitHub.
-
-### 13.2 Comprueba si Git ya está iniciado
-
-En la terminal de VS Code, confirma que estás dentro de gameshelf y ejecuta:
-
-```
-git status
-```
-
-Si muestra el estado del proyecto, continúa. Si dice que no es un repositorio Git, ejecuta:
-
-```
-git init -b main
-```
-
-Si tu versión no acepta `-b main`, ejecuta `git init` y después `git branch -M main`.
-
-### 13.3 Guarda la primera versión y conéctala
-
-Desde la carpeta gameshelf ejecuta los comandos. En la URL, sustituye USUARIO por tu usuario:
-
-```
-git add .
-git commit -m "Crear primera versión de GameShelf"
-git branch -M main
-git remote add origin https://github.com/USUARIO/react-gameshelf.git
-git push -u origin main
-```
-
-| Comando | Función |
-|---|---|
-| `git add .` | Prepara los archivos para guardar una versión. |
-| `git commit -m "..."` | Guarda una versión con un mensaje. |
-| `git branch -M main` | Nombra main a la rama actual. |
-| `git remote add origin URL` | Conecta el proyecto local con GitHub. |
-| `git push -u origin main` | Sube la versión al repositorio remoto. |
-
-Recarga la página del repositorio. Debes ver el código y README.md. Si haces cambios después, súbelos así:
-
-```
-git add .
-git commit -m "Añadir filtro de precio"
-git push
-```
-
-No subas contraseñas, tokens ni claves. node_modules debe quedar excluida mediante .gitignore. Si Git muestra un error, copia el mensaje y pide ayuda en vez de repetir comandos a ciegas.
-
-## 14. Entrega y reflexión
+## 13. Entrega y reflexión
 
 Entrega en el aula virtual la dirección de tu repositorio y comprueba que la última versión está subida. Completa en README, con tus palabras:
 
