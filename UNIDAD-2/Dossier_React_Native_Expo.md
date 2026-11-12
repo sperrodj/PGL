@@ -1,4 +1,4 @@
-# Dossier de React Native con Expo — PGL (2.º DAM)
+# Dossier de React Native con Expo — UNIDAD-2. PGL (2DAM)
 
 **Desarrollo de aplicaciones móviles con TypeScript, Expo Router y Android Studio**  
 **Modalidad de trabajo:** una sola aplicación Expo y un solo repositorio GitHub para todas las prácticas.  
