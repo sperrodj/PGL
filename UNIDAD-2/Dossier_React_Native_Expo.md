@@ -2,11 +2,10 @@
 
 **Desarrollo de aplicaciones móviles con TypeScript, Expo Router y Android Studio**  
 **Modalidad de trabajo:** una sola aplicación Expo y un solo repositorio GitHub para todas las prácticas.  
-**Destinatarios:** alumnado de PGL. Este es el material de consulta y trabajo; seguid las prácticas en el orden indicado.
 
 > **Norma principal:** todas las prácticas deben poder abrirse desde el menú de la aplicación. **No eliminéis ni sobrescribáis una práctica para hacer la siguiente.** Cuando una práctica amplíe otra, podéis reutilizar sus componentes, pero conservad una versión accesible de la anterior. Se mantendrán también las prácticas 9 y 9.1 como actividades distintas.
 
-> **Imágenes del dossier:** las marcas «📸 INSERTAR CAPTURA DEL DOSSIER ORIGINAL — página N» indican dónde se añadirá una referencia visual del PDF de partida. Si una captura incluye instrucciones de React Native CLI, TypeORM o rutas antiguas, se utilizará **solo como ejemplo visual**: seguid el código y las rutas Expo de esta versión.
+> **Imágenes del dossier:** Si una captura incluye instrucciones de React Native CLI, TypeORM o rutas antiguas, se utilizará **solo como ejemplo visual**: seguid el código y las rutas Expo de esta versión.
 
 ## Índice de contenidos
 
